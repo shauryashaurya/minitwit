@@ -12,7 +12,7 @@
         <spark.freemarker.version>2.0.0</spark.freemarker.version>
         <freemarker.version>2.3.23</freemarker.version>
         <hsqldb.version>2.3.3</hsqldb.version>
-        <mysql.version>6.0.3</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <dbcp.version>2.1.1</dbcp.version>
         <jbcrypt.version>0.4</jbcrypt.version>
         <commons.beanutils.version>1.9.2</commons.beanutils.version>
