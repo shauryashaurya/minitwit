@@ -15,7 +15,7 @@
         <mysql.version>8.0.28</mysql.version>
         <dbcp.version>2.1.1</dbcp.version>
         <jbcrypt.version>0.4</jbcrypt.version>
-        <commons.beanutils.version>1.9.2</commons.beanutils.version>
+        <commons.beanutils.version>1.9.4</commons.beanutils.version>
         <junit.version>4.11</junit.version>
     </properties>
 
